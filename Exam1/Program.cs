@@ -14,4 +14,6 @@ p.kvadrat(3);
 Console.Write("Введите число");
 int number =int.Parse(Console.ReadLine()!);
 Console.WriteLine(number*number);
+int result=number*number;
+Console.WriteLine(result);
 
